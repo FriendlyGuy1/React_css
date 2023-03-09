@@ -1,0 +1,32 @@
+.one_item {
+    border: 2px solid rgb(116, 101, 101);
+    height: 500px;
+    width: 750px;
+}
+.main {
+    display: flex;
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.picture_test {
+    width: 100%;
+    height: auto;
+    max-width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Title {
+    padding-bottom: 10px;
+    text-align: center;
+    border-bottom: 2px solid rgb(116, 101, 101);
+}
+
+.description{
+    letter-spacing: 2px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
